@@ -1,4 +1,22 @@
-                                 /******************   TAGS **********************/
+                               /******************   TAGS **********************/
+a:link {
+    color: green;
+      }
+                              
+                              /* visited link */
+a:visited {
+    color: green;
+      }
+                              
+                              /* mouse over link */
+a:hover {
+   color: red;
+        }
+                              
+                              /* selected link */
+a:active {
+   color: yellow;
+    }                              
 body{
   font-family: "Times New Roman", Times, serif;
   font-size: 15px;
